@@ -68,7 +68,7 @@ form button{
     margin: 100px auto 50px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 68px;
+    grid-gap: 28px;
 }
 
 #search-result img:hover {
@@ -104,7 +104,7 @@ form button{
     cursor: pointer;
     display: none;
     animation: dance 1s infinite alternate;
-    font-size: 20px;
+    font-size: 26px;
 }
 
 #show-more-btn:hover {
